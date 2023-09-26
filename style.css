@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+
+.container{
+    width: 460px;
+    height: 540px;
+    background-color: black;
+    background-color: linear-gradient(rgba(77, 81, 96, 0.8), rgba(89, 179, 78, 0.8));
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+
+ }
+ 
+ p{
+     margin-left: 10px;
+     color: rgb(72, 52, 52);
+     font-size: 1.5rem;
+     font-family: 'Franklin gothic medium','Arial Narrow',Arial,sans-ser;
+ }
+ 
+ #screen{
+    background-color: rgb(69, 93, 104);
+    height: 80px;
+    width: 440px;
+    margin: 5px;
+    font-size: 4rem;
+    text-align: right;
+    border-radius: 10px;
+
+}
+
+.button{
+    background-color: rgb(81, 80, 80);
+    color: white;
+    height: 70px;
+    width: 92px;
+    margin: 10px;
+    font-size: 2.5rem;
+    border-radius: 50%;
+
+}
+
+.clear{
+    background-color: rgb(42, 170, 42);
+}
+
+.operator{
+    background-color: rgb(132, 132, 130);
+}
+
+.button:hover{
+    border: 5px solid greenyellow;
+}
