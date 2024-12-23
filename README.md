@@ -34,7 +34,7 @@ A web browser is required to open and use the calculator.
    git clone https://github.com/Sudeep-Bhandari/calculator.git
 
 2. Navigate to the project directory:
-3. ```bash
+   ```bash
    cd calculator
 
 ### Usage
@@ -42,8 +42,17 @@ A web browser is required to open and use the calculator.
 2. Use the buttons to perform calculations.
 3. Click C to clear the screen and reset the calculator.
 
-### Contributing
-Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request with your improvements.
+# Contributing
 
-### License
+  ## We welcome contributions to improve this project. To contribute:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Make your changes.
+    Commit your changes (git commit -am 'Add new feature').
+    Push to the branch (git push origin feature-branch).
+    Open a pull request.
+
+# License
 This project is licensed under the MIT License.
+
