@@ -4,6 +4,11 @@ A simple and fully functional calculator built using HTML, CSS, and JavaScript. 
 
 ---
 
+##  Live Demo
+[Try it Live](https://sudeep-bhandari.github.io/Calculator/) 
+
+---
+
 ## Features
 
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
@@ -12,9 +17,6 @@ A simple and fully functional calculator built using HTML, CSS, and JavaScript. 
 - **Interactive UI**: Button clicks and input display for a smooth user experience.
 
 ---
-## Demo
-
-You can see the Calculator in action here: [Live Demo](http://127.0.0.1:5500/calculator/index.html) 
 
 ## Technologies Used
 
